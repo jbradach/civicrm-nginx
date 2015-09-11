@@ -8,4 +8,4 @@ The examples here are intended to get a new CiviCRM site going with your CMS of 
 ## To-do:
 - [ ] Drupal
 - [ ] Joomla
-- [ ] WordPress
+- [x] WordPress
