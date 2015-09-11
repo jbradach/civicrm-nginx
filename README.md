@@ -7,3 +7,7 @@ Sample configuration files for using [CiviCRM](https://civicrm.org/) with [Nginx
 - [ ] Drupal
 - [ ] Joomla
 - [x] WordPress
+
+### Installing Components
+- Shell scripts to quickly install Nginx, MariaDB, and PHP-FPM on Ubuntu: https://github.com/jbradach/quick-lemp
+- Tutorial to manually install above components: https://lemp.io/guides/lemp-stack-installation-nginx-uwsgi-mariadb-ubuntu-14-04/
